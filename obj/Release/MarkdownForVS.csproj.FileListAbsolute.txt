@@ -1,0 +1,17 @@
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\ResolveAssemblyReference.cache
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\MarkdownForVS.Strings.resources
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\GenerateResource.read.1.tlog
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\GenerateResource.write.1.tlog
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\license.txt
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\preview.png
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\logo.png
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\MarkdownForVS.VSCompiler.dll
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\MarkdownForVS.VSCompiler.pkgdef
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\MarkdownForVS.VSCompiler.vsix
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\extension.vsixmanifest
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\EcmaScript.NET.modified.dll
+X:\source\git\Markdown-For-Visual-Studio\bin\Release\MarkdownSharp.dll
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\MarkdownForVS.VSCompiler.dll
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\MarkdownForVS.VSCompiler.pkgdef
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\MarkdownForVS.VSCompiler.latest.pkgdef
+X:\source\git\Markdown-For-Visual-Studio\obj\Release\extension.vsixmanifest
