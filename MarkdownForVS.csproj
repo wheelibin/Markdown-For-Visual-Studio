@@ -126,7 +126,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="README" />
+    <None Include="README.markdown" />
     <None Include="source.extension.vsixmanifest" />
   </ItemGroup>
   <ItemGroup>
@@ -159,9 +159,6 @@
     <Content Include="preview.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
-    </Content>
-    <Content Include="logo.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <PropertyGroup>

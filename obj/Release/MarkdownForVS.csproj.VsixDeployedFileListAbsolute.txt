@@ -1,7 +1,0 @@
-C:\Users\jon\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\wheelibin\Markdown For Visual Studio\1.0\\MarkdownForVS.VSCompiler.dll
-C:\Users\jon\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\wheelibin\Markdown For Visual Studio\1.0\\EcmaScript.NET.modified.dll
-C:\Users\jon\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\wheelibin\Markdown For Visual Studio\1.0\\MarkdownSharp.dll
-C:\Users\jon\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\wheelibin\Markdown For Visual Studio\1.0\\MarkdownForVS.VSCompiler.pkgdef
-C:\Users\jon\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\wheelibin\Markdown For Visual Studio\1.0\\extension.vsixmanifest
-C:\Users\jon\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\wheelibin\Markdown For Visual Studio\1.0\\license.txt
-C:\Users\jon\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\wheelibin\Markdown For Visual Studio\1.0\\preview.png
