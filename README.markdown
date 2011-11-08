@@ -10,7 +10,7 @@ You can create a markdown file directly in Visual Studio and this tool will outp
 
 *I am currently using it to output a partial view for ASP.NET MVC3 for a help/FAQ page.*
 
-*It allows me to write the page using Markdown and have the generated file used as a partial view without me having to copy and paste from a markdown converter to Visual Studio.
+*It allows me to write the page using Markdown and have the generated file used as a partial view without me having to copy and paste from a markdown converter to Visual Studio.*
 
 How To
 ------
