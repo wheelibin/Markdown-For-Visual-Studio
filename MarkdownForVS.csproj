@@ -52,9 +52,6 @@
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EcmaScript.NET.modified">
-      <HintPath>packages\YUICompressor.NET.1.6.0.2\lib\net35\EcmaScript.NET.modified.dll</HintPath>
-    </Reference>
     <Reference Include="EnvDTE">
       <SpecificVersion>False</SpecificVersion>
     </Reference>

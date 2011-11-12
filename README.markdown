@@ -31,6 +31,11 @@ produces:
 	test1.html
 	test1.cshtml
 
+###Enabling the tool
+
+Set the "CustomTool" property on each of your markdown files to "Markdown".
+
+The HTML output will now be automatically created every time you save the markdown source file.
 	
 Credits
 =======
