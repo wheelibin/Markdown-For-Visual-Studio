@@ -46,8 +46,7 @@ namespace CustomToolkit
         /// <returns></returns>
         protected override string GetDefaultExtension()
         {
-            //assuming: filename.[required_extension]_md
-            return Path.GetExtension(InputFilePath.Replace("_md", ""));
+            return string.Empty;
         }
 
         /// <summary>
@@ -58,9 +57,10 @@ namespace CustomToolkit
         protected override byte[] GenerateCode(string inputFileContent)
         {
 
-            //if (InputFilePath.EndsWith("_md"))
-            var mdRegex = new System.Text.RegularExpressions.Regex(@"\w+\.\w+_md");
-            if (mdRegex.IsMatch(Path.GetFileName(InputFilePath)))
+            var mdRegex = new System.Text.RegularExpressions.Regex(@"(\.\w+)\.(?:md|markdown)$");
+            var matches = mdRegex.Match(Path.GetFileName(InputFilePath));
+
+            if (matches.Groups.Count > 1)
             {
                 try
                 {
@@ -76,7 +76,7 @@ namespace CustomToolkit
             }
             else
             {
-                GeneratorError(0, "The Markdown tool is only for Markdown files with the following filename format: filename.[required_extension]_md", 0, 0);
+                GeneratorError(0, "The Markdown tool is only for Markdown files with the following filename format: filename.[required_extension].md or filename.[required_extension].markdown", 0, 0);
             }
 
             return null;
