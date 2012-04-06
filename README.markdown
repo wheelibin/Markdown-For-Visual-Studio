@@ -19,12 +19,12 @@ How To
 
 So the tool can infer what file extension you would like to create you should use the following filename pattern:
 
-	filename.[required_extension]_md
+	`filename.[required_extension].md` or `filename.[required_extension].markdown`
 
 examples:
 
-	test1.html_md
-	test1.cshtml_md
+	test1.html.md
+	test1.cshtml.md
    
 produces:
 
