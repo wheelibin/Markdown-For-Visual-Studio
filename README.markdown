@@ -19,7 +19,7 @@ How To
 
 So the tool can infer what file extension you would like to create you should use the following filename pattern:
 
-	`filename.[required_extension].md` or `filename.[required_extension].markdown`
+	filename.[required_extension].md or filename.[required_extension].markdown
 
 examples:
 
